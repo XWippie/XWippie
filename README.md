@@ -1,8 +1,6 @@
 Hi 👋 My name is Xander Waeghe
 ==============================
-
-I'm a 3rd year student IoT Infrastructure engineer (MCT) at howest 
-----------------------------------------------------------------
+I'm a 3rd year student IoT Infrastructure engineer (MCT) at howest
 
 # 💫 About Me:
 🔭 I’m currently working on my online portfolio and something special<br>🌱 I’m currently learning typescript<br>📷 Fun fact I'm also a hobby photographer<br>💪 I love sports Sports<br>🎮 I also love playing video games
