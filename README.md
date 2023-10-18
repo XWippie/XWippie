@@ -1,7 +1,7 @@
 Hi 👋 My name is Xander Waeghe
 ==============================
 
-I'm a student at Howest Multimedia & Creative Technologies (MCT)
+I'm a 3rd year student IoT Infrastructure engineer (MCT) at howest 
 ----------------------------------------------------------------
 
 # 💫 About Me:
